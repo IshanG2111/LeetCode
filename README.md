@@ -50,7 +50,7 @@ Problems are organized by:
 
 ## ✨ Highlights
 
-- 🏅 Solutions to popular interview questions!
+- 🏅 Solutions to popular interview questions
 - ✅ Explanatory comments for clarity
 - 🔥 Regularly updated with new problems & improved approaches
 - 🎯 Focus on clean, readable Java
@@ -59,7 +59,7 @@ Problems are organized by:
 
 ## 🏆 Goals
 
-- Master DSA in Java!
+- Master DSA in Java
 - Maintain consistency in problem-solving
 - Share knowledge and help the developer community
 
@@ -67,7 +67,7 @@ Problems are organized by:
 
 ## 📈 Progress
 
-![LeetCode Progress]([https://leetcard.jacoblin.cool/IshanG2111?ext=heatmap](https://leetcard.jacoblin.cool/Ishan_Ghosh21?theme=dark&font=Waiting%20for%20the%20Sunrise&ext=heatmap))
+![LeetCode Stats](https://leetcard.jacoblin.cool/Ishan_Ghosh21?theme=dark&font=Waiting%20for%20the%20Sunrise&ext=heatmap)
 
 ---
 

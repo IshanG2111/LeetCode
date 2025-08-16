@@ -80,7 +80,7 @@ Pull requests are welcome for alternative solutions or optimizations in Java!
 
 ## 🔗 Useful Links
 
-- [LeetCode Profile](https://leetcode.com/IshanG2111/)
+- [LeetCode Profile](https://leetcode.com/u/Ishan_Ghosh21/)
 - [My GitHub](https://github.com/IshanG2111)
 
 ---

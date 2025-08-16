@@ -67,7 +67,7 @@ Problems are organized by:
 
 ## 📈 Progress
 
-![LeetCode Progress](https://leetcard.jacoblin.cool/IshanG2111?ext=heatmap)
+![LeetCode Progress]([https://leetcard.jacoblin.cool/IshanG2111?ext=heatmap](https://leetcard.jacoblin.cool/Ishan_Ghosh21?theme=dark&font=Waiting%20for%20the%20Sunrise&ext=heatmap))
 
 ---
 

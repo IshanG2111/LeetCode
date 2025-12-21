@@ -1,15 +1,20 @@
-//Draft 1 passes intial test cases
 class Solution {
     public int maxArea(int[] height) {
-         int maxHeight = 0;
-         for (int i = 0; i < height.length - 1; i++) {
-             for (int j = i + 1; j < height.length; j++) {
-                 int currentHeight = Math.min(height[i], height[j]);
-                 int width = j - i;
-                 int currentArea = currentHeight * width;
-                 maxHeight = Math.max(maxHeight, currentArea);
+        int left=0;
+        int right=height.length-1;
+        int maxArea=0;
+        while(left<right){
+            int currentHeight = Math.min(height[left], height[right]);
+            int currentWidth = right - left;
+            int currentArea = currentHeight * currentWidth;
+
+            maxArea = Math.max(maxArea, currentArea);
+            if (height[left] < height[right]) {
+                left++;
+            } else {
+                right--;
             }
         }
-        return maxHeight;
+        return maxArea;
     }
 }

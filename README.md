@@ -2,50 +2,54 @@
 
 ![leetcode banner](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWRvMHZqb2Z6dHd0ZGhzbzN1dGhxZHZhNmJ6bThkNzd4Z2YwZHpqZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKMt1VVNkHV2PaE/giphy.gif)
 
-Welcome to my LeetCode solutions repository! Here you'll find a curated collection of coding problem solutions from LeetCode, implemented in **Java** to master algorithms, data structures, and ace technical interviews.
+Welcome to my LeetCode solutions repository! Here you'll find a curated collection of coding problem solutions from LeetCode, implemented in **Java** and **JavaScript** to master algorithms, data structures, and ace technical interviews.
 
 ---
 
 ## 📚 About This Repository
 
 This repo is my personal journey to:
-- 📈 Sharpen problem-solving with Java
+- 📈 Sharpen problem-solving with Java and JavaScript
 - 💼 Prepare for interviews and competitive programming
 - 🧑‍💻 Share clean, well-documented solutions with the community
 
 ---
 
-## 🛠️ Language Used
+## 🛠️ Languages Used
 
-> **All solutions are written in:**  
+> **Solutions are written in:**  
 > ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-> ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square).
+> ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 ---
 
 ## 📂 Organization
 
-Problems are organized by:
-- **Topic:** Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, etc.
-- **Difficulty:** Easy, Medium, Hard
+Solutions are organized as follows:
+- **Java Solutions**: Individual `.java` files in the root directory (34+ problems)
+- **JavaScript Solutions**: Located in the `Js/` folder (5+ problems)
+
+Problems cover various topics including:
+- Arrays, Strings, Math, Bit Manipulation
+- Two Pointers, Binary Search, Greedy
+- Dynamic Programming, Backtracking, and more
 
 ```plaintext
-├── Arrays/
-├── LinkedList/
-├── Trees/
-├── DP/
-└── ...
+├── *.java (Java solutions)
+├── Js/
+│   └── *.js (JavaScript solutions)
+└── README.md
 ```
 
 ---
 
 ## 🚀 How to Use
 
-- Browse folders by topic or difficulty.
+- Browse solution files in the root directory (Java) or `Js/` folder (JavaScript).
 - Each solution file contains:
   - Problem statement (as a comment or link).
   - My approach and explanations.
-  - Java code solution.
+  - Clean, working code solution.
 
 ---
 
@@ -54,15 +58,17 @@ Problems are organized by:
 - 🏅 Solutions to popular interview questions
 - ✅ Explanatory comments for clarity
 - 🔥 Regularly updated with new problems & improved approaches
-- 🎯 Focus on clean, readable Java
+- 🎯 Focus on clean, readable code in Java and JavaScript
+- 📊 34+ Java solutions and 5+ JavaScript solutions
 
 ---
 
 ## 🏆 Goals
 
-- Master DSA in Java
+- Master DSA in Java and JavaScript
 - Maintain consistency in problem-solving
 - Share knowledge and help the developer community
+- Expand solution collection across multiple languages
 
 ---
 
@@ -75,7 +81,7 @@ Problems are organized by:
 ## 🤝 Contributions
 
 Feel free to open issues for suggestions, improvements, or corrections.  
-Pull requests are welcome for alternative solutions or optimizations in Java!
+Pull requests are welcome for alternative solutions or optimizations!
 
 ---
 

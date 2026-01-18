@@ -59,7 +59,7 @@ Problems cover various topics including:
 - ✅ Explanatory comments for clarity
 - 🔥 Regularly updated with new problems & improved approaches
 - 🎯 Focus on clean, readable code in Java and JavaScript
-- 📊 34+ Java solutions and 5+ JavaScript solutions
+- 📊 Java and JavaScript solutions
 
 ---
 

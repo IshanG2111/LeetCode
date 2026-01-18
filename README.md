@@ -92,10 +92,4 @@ Pull requests are welcome for alternative solutions or optimizations!
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJxdXE2dWwxeGIyM2xvbnB5Z3pka3lvaGo2bGczN2R1OWl1N2F2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding" width="500"/>
-</p>
-
----
-
 *Happy coding! May your algorithms always run in O(1) time!*

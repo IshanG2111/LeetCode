@@ -26,9 +26,10 @@ This repo is my personal journey to:
 
 ## 📂 Organization
 
-Solutions are organized as follows:
-- **Java Solutions**: Individual `.java` files in the root directory (34+ problems)
-- **JavaScript Solutions**: Located in the `Js/` folder (5+ problems)
+Solutions are organized by language into dedicated folders:
+- **Java Solutions**: Located in the `Java/` folder (34+ problems)
+- **JavaScript Solutions**: Located in the `JavaScript/` folder (5+ problems)
+- **Python Solutions**: Located in the `Python/` folder
 
 Problems cover various topics including:
 - Arrays, Strings, Math, Bit Manipulation
@@ -36,9 +37,12 @@ Problems cover various topics including:
 - Dynamic Programming, Backtracking, and more
 
 ```plaintext
-├── *.java (Java solutions)
-├── Js/
+├── Java/
+│   └── *.java (Java solutions)
+├── JavaScript/
 │   └── *.js (JavaScript solutions)
+├── Python/
+│   └── *.py (Python solutions)
 └── README.md
 ```
 
@@ -46,7 +50,7 @@ Problems cover various topics including:
 
 ## 🚀 How to Use
 
-- Browse solution files in the root directory (Java) or `Js/` folder (JavaScript).
+- Browse solution files in the `Java/`, `JavaScript/`, or `Python/` folders.
 - Each solution file contains:
   - Problem statement (as a comment or link).
   - My approach and explanations.

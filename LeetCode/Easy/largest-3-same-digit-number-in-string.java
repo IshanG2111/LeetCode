@@ -3,7 +3,7 @@
 // Difficulty: Easy
 // Language: java
 
-import java.util.LinkedHashMap;
+import java.util.LinkedHashMap; // Import LinkedHashMap for guaranteed insertion order
 import java.util.Map;
 
 class Solution {

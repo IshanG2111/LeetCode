@@ -1,0 +1,19 @@
+// Title: Running Sum of 1d Array
+// URL: https://leetcode.com/problems/running-sum-of-1d-array/
+// Difficulty: Easy
+// Language: python
+
+class Solution(object):
+    def runningSum(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: List[int]
+        """
+        result=[]
+        sum=0
+        for i in range(len(nums)):
+            sum+=nums[i]
+            result.append(sum)
+        return result
+
+        

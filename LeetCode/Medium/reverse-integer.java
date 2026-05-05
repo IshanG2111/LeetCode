@@ -12,7 +12,7 @@ class Solution {
             x = x * -1;
             si = 1;
         }
-        while (x != 0) {
+        while (x > 0) {
             int n = x % 10;
             if (r > (Integer.MAX_VALUE - n) / 10) {
                 return 0;

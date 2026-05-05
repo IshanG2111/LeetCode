@@ -1,0 +1,17 @@
+// Title: First Letter to Appear Twice
+// URL: https://leetcode.com/problems/first-letter-to-appear-twice/
+// Difficulty: Easy
+// Language: python
+
+class Solution(object):
+    def repeatedCharacter(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        seen=[]
+        for c in s:
+            if c in seen:
+                return c
+            else:
+                seen.append(c)

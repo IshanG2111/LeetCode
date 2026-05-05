@@ -3,4 +3,15 @@
 // Difficulty: Easy
 // Language: javascript
 
-// Add your solution here!
+/**
+ * @param {Object|Array} obj
+ * @return {boolean}
+ */
+var isEmpty = function(obj) {
+        if(Object.keys(obj).length===0){
+            return true;
+        }
+        else{
+        return false;
+        }
+};

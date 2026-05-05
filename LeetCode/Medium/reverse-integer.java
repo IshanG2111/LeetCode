@@ -29,6 +29,7 @@ class Solution {
         if (r < a || r >= b) {
             return 0;
         }
+
         return r;
     }
 }

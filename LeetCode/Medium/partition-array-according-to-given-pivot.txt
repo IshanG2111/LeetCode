@@ -1,0 +1,6 @@
+// Title: Partition Array According to Given Pivot
+// URL: https://leetcode.com/problems/partition-array-according-to-given-pivot/
+// Difficulty: Medium
+// Language: python
+
+// Add your solution here!

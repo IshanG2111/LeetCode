@@ -1,0 +1,28 @@
+// Title: Remove Outermost Parentheses
+// URL: https://leetcode.com/problems/remove-outermost-parentheses/
+// Difficulty: Easy
+// Language: java
+
+class Solution {
+    public String removeOuterParentheses(String s) {
+        int n=s.length();
+        int count=0;
+        StringBuilder result=new StringBuilder();
+        for(int i=0;i<n;i++){
+            char ch=s.charAt(i);
+           if(ch=='('){
+           if(count>0){
+            result.append(ch);
+           }
+           count++;
+           }
+           else{
+            count--;
+            if(count>0){
+                result.append(ch);
+            }
+           } 
+        }
+        return result.toString();
+    }
+}

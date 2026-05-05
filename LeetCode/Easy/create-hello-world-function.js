@@ -4,9 +4,9 @@
 // Language: javascript
 
 var createHelloWorld = function() {
-    const msg="Hello World";
+    
     return function(...args) {
-        return msg;
+        return "Hello World";
     }
 };/**
  * @return {Function}

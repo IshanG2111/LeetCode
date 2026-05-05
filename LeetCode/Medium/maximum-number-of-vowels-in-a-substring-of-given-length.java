@@ -15,9 +15,6 @@ class Solution {
                 count--;
             }
             max = Math.max(max, count);
-            if (count==k){
-                return k;
-            }
         }
         return max;
     }

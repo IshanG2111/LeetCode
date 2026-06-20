@@ -1,0 +1,6 @@
+// Title: Nth Highest Salary
+// URL: https://leetcode.com/problems/nth-highest-salary/
+// Difficulty: Medium
+// Language: mysql
+
+// Add your solution here!

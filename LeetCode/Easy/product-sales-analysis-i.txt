@@ -1,0 +1,6 @@
+// Title: Product Sales Analysis I
+// URL: https://leetcode.com/problems/product-sales-analysis-i/
+// Difficulty: Easy
+// Language: mysql
+
+// Add your solution here!
